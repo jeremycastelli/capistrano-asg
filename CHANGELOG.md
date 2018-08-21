@@ -1,3 +1,8 @@
+# 0.7.1
+
+* public ip instead of private
+* remove iam_instance_profile introduced in 0.7.0
+
 # 0.7.0
 
 * Update to AWS SDK v3. Thanks @jpatters and @milgner
